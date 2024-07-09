@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/veera venkata sai durga prasad thota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veera venkata sai durga prasad thota" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/durgaprasadthota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veera venkata sai durga prasad thota" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasaddurga2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasaddurga2031" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/20mh1a04c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20mh1a04c3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prasaddurga2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prasaddurga2031" height="30" width="40" /></a>
