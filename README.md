@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend System Design**
 
-- 👨‍💻 All of my projects are available at [https://durgaprasad-2002.github.io/portfolio/](https://durgaprasad-2002.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://durgaprasadthota.netlify.app/](https://durgaprasadthota.netlify.app/)
 
 - 💬 Ask me about **React, Node**
 
