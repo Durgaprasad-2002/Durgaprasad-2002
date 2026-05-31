@@ -1,56 +1,64 @@
-```md
-<h1 align="center">Hi 👋, I'm Durga Prasad</h1>
+# Hi 👋, I'm Durga Prasad
 
-<h3 align="center">
-Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applications
-</h3>
+### Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applications
 
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=durgaprasad-2002&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=durgaprasad-2002&theme=algolia" />
-</a>
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=durgaprasad-2002&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Software Engineer with **1+ year of experience** developing scalable production applications
+🚀 Software Engineer with **1+ year of experience** building scalable production applications.
 
-- 💻 Passionate about **Full Stack Development, Backend Engineering & System Design**
+💻 Passionate about **Full Stack Development, Backend Engineering & System Design**
 
-- 🏗️ Experienced in building:
-  - Modular workflow systems
-  - Real-time communication platforms
-  - AI-driven applications
-  - Asynchronous processing pipelines
-  - Configurable service architectures
-  - Transactional B2C platforms
+### I work on:
 
-- 🔭 Currently working with  
-  **Next.js | Angular | NestJS | GraphQL | PostgreSQL**
+- ⚙️ Modular workflow systems
+- 🔄 Asynchronous processing pipelines
+- 🏗️ Scalable backend architectures
+- ⚡ Real-time applications
+- 🤖 AI-driven applications
+- 🛒 Transactional B2C platforms
 
-- 🌱 Currently learning  
-  **Advanced System Design, Distributed Systems & Cloud Architecture**
 
-- 💬 Ask me about  
-  **React, Node.js, NestJS, GraphQL, PostgreSQL**
+### Currently Working With
 
-- 👨‍💻 Portfolio  
-  https://durgaprasadthota.netlify.app/
+- Next.js
+- Angular
+- NestJS
+- GraphQL
+- PostgreSQL
 
-- 📫 Reach me  
-  **prasaddurga2031@gmail.com**
 
-- 📄 Resume  
-  https://durgaprasad-2002.github.io/portfolio/static/media/VeeraVenkataSaiDurgaPrasadThota_Resume.13334ad67874956e6902.pdf
+### Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Cloud Architecture
+
+
+### Ask Me About
+
+- React
+- Next.js
+- Angular
+- Node.js
+- NestJS
+- GraphQL
+- PostgreSQL
+
+
+📌 Portfolio:  
+https://durgaprasadthota.netlify.app/
+
+
+📫 Email:  
+**prasaddurga2031@gmail.com**
+
+
+📄 Resume:  
+[View Resume](https://www.linkedin.com/in/durgaprasad31/)
 
 
 ---
@@ -59,23 +67,11 @@ Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applicat
 # 🌐 Connect With Me
 
 
-<p>
+[LinkedIn](https://www.linkedin.com/in/durgaprasadthota)
 
-<a href="https://www.linkedin.com/in/durgaprasadthota">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+[HackerRank](https://www.hackerrank.com/prasaddurga2031)
 
-
-<a href="https://www.hackerrank.com/prasaddurga2031">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45"/>
-</a>
-
-
-<a href="https://leetcode.com/20mh1a04c3">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45"/>
-</a>
-
-</p>
+[LeetCode](https://leetcode.com/20mh1a04c3)
 
 
 ---
@@ -86,38 +82,22 @@ Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applicat
 
 ## Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,ts,js,html,css,tailwind" />
-
-</p>
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,redux,ts,js,html,css,tailwind)
 
 
 ## Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java" />
-
-</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,java)
 
 
-## Database & Caching
+## Database & Cache
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-
-</p>
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)
 
 
-## Tools & Platforms
+## Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=graphql,docker,git,github,linux,postman" />
-
-</p>
+![Tools](https://skillicons.dev/icons?i=graphql,docker,git,github,linux,postman)
 
 
 ---
@@ -126,59 +106,62 @@ Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applicat
 # 🚀 Engineering Experience
 
 
-### Backend Development
+## Backend Engineering
 
-✔ Designed scalable APIs using **NestJS & GraphQL**  
+✔ Designed scalable APIs using NestJS & GraphQL
 
-✔ Developed modular and configurable backend services  
+✔ Built modular backend services
 
-✔ Built asynchronous workflows and processing pipelines  
+✔ Created asynchronous workflow systems
 
-✔ Implemented authentication, authorization & secure APIs  
-
-
-<br/>
+✔ Optimized database performance
 
 
-### Full Stack Development
-
-✔ Developed production applications using **Next.js & Angular**
-
-✔ Built reusable UI components and optimized frontend performance
-
-✔ Integrated REST APIs and GraphQL services
-
-✔ Improved SEO, accessibility and application speed
+---
 
 
-<br/>
+## Frontend Engineering
+
+✔ Built production applications using Next.js & Angular
+
+✔ Developed reusable components
+
+✔ Integrated REST & GraphQL APIs
+
+✔ Improved SEO and performance
 
 
-### Product Engineering
-
-✔ Developed transactional B2C platforms
-
-✔ Built payment and order management flows
-
-✔ Implemented coupon and pricing systems
-
-✔ Worked on real-time communication features
+---
 
 
-<br/>
+## Product Engineering
+
+✔ Payment systems
+
+✔ Order management platforms
+
+✔ Coupon & pricing engines
+
+✔ Real-time communication features
 
 
-### System Design
+---
 
-✔ High Level Design (HLD)
 
-✔ Low Level Design (LLD)
+# 🏗️ System Design Skills
 
-✔ Database Optimization
 
-✔ Caching Strategies
+- High Level Design (HLD)
 
-✔ Scalable Architecture Patterns
+- Low Level Design (LLD)
+
+- Database Design
+
+- Caching
+
+- API Design
+
+- Scalable Architecture Patterns
 
 
 ---
@@ -187,27 +170,13 @@ Full Stack Software Engineer | Building Scalable, Real-Time & AI-Driven Applicat
 # 📊 GitHub Analytics
 
 
-<p align="center">
-
-<img 
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=durgaprasad-2002&show_icons=true&theme=tokyonight"
-/>
+![Durga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasad-2002&show_icons=true&theme=tokyonight)
 
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-2002&layout=compact&theme=tokyonight"
-/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-2002&layout=compact&theme=tokyonight)
 
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad-2002&theme=tokyonight"/>
-
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad-2002&theme=tokyonight)
 
 
 ---
@@ -220,9 +189,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-
 
 - ☁️ Cloud Fundamentals
 
-- 🐳 Docker & Containerization
+- 🐳 Docker & Containers
 
-- ⚙️ Microservices Architecture
+- ⚙️ Microservices
 
 - 🚀 Performance Optimization
 
@@ -232,9 +201,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-
 ---
 
 
-<h3 align="center">
-
-⚡ Engineering scalable solutions, one system at a time ⚡
-
-</h3>
-```
+### ⚡ Engineering scalable solutions, one system at a time ⚡
