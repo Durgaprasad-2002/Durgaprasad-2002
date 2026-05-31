@@ -1,32 +1,166 @@
+```html
 <h1 align="center">Hi 👋, I'm Durga Prasad</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full Stack Software Engineer | Building Scalable Web, Real-Time & AI-Driven Applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgaprasad-2002" alt="durgaprasad-2002" /></a> </p>
-
-- 🌱 I’m currently learning **System Design**
-
-- 👨‍💻 All of my projects are available at [https://durgaprasadthota.netlify.app/](https://durgaprasadthota.netlify.app/)
-
-- 💬 Ask me about **React, Node**
-
-- 📫 How to reach me **prasaddurga2031@gmail.com**
-
-- 📄 Know about my experiences [https://durgaprasad-2002.github.io/portfolio/static/media/VeeraVenkataSaiDurgaPrasadThota_Resume.13334ad67874956e6902.pdf](https://durgaprasad-2002.github.io/portfolio/static/media/VeeraVenkataSaiDurgaPrasadThota_Resume.13334ad67874956e6902.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/durgaprasadthota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veera venkata sai durga prasad thota" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasaddurga2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasaddurga2031" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/20mh1a04c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20mh1a04c3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prasaddurga2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prasaddurga2031" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=durgaprasad-2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=durgaprasad-2002&theme=algolia" alt="github trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgaprasad-2002&show_icons=true&locale=en&layout=compact" alt="durgaprasad-2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgaprasad-2002&show_icons=true&locale=en" alt="durgaprasad-2002" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad-2002&" alt="durgaprasad-2002" /></p>
+- 🚀 Software Engineer with **1+ year of experience** building scalable production applications
 
+- 💻 Specialized in **Full Stack Development, Backend Architecture & System Design**
+
+- 🏗️ Experienced in designing:
+  - Modular workflow systems
+  - Asynchronous processing pipelines
+  - Configurable service architectures
+  - Real-time applications
+  - Transactional B2C platforms
+
+- 🔭 Currently working with:
+  **Next.js, Angular, NestJS, GraphQL, PostgreSQL**
+
+- 🌱 Currently learning:
+  **Advanced System Design, Distributed Systems & Cloud Architecture**
+
+- 💬 Ask me about:
+  **React, Next.js, Angular, Node.js, NestJS, GraphQL, PostgreSQL**
+
+- 👨‍💻 Portfolio:
+  https://durgaprasadthota.netlify.app/
+
+- 📫 Reach me:
+  **prasaddurga2031@gmail.com**
+
+- 📄 Resume:
+  https://durgaprasad-2002.github.io/portfolio/static/media/VeeraVenkataSaiDurgaPrasadThota_Resume.13334ad67874956e6902.pdf
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/durgaprasadthota">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/prasaddurga2031">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45"/>
+</a>
+
+<a href="https://leetcode.com/20mh1a04c3">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45"/>
+</a>
+
+</p>
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,typescript,javascript,html,css,tailwind" />
+</p>
+
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java" />
+</p>
+
+
+### Database & Search
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+
+### API & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=graphql,docker,git,github,postman,linux" />
+</p>
+
+
+---
+
+# 🚀 Experience Highlights
+
+
+### Software Engineering
+
+✔ Built scalable full-stack production applications  
+✔ Designed GraphQL APIs and backend services  
+✔ Implemented payment & order management systems  
+✔ Developed coupon and pricing engines  
+✔ Built real-time communication features  
+✔ Optimized application performance & SEO  
+
+
+### Architecture
+
+✔ Modular backend architecture  
+✔ Async processing workflows  
+✔ Database optimization  
+✔ Caching strategies  
+✔ Scalable system design patterns  
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p>
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=durgaprasad-2002&show_icons=true&theme=tokyonight"
+/>
+
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-2002&layout=compact&theme=tokyonight"
+/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad-2002&theme=tokyonight"/>
+</p>
+
+
+---
+
+# 🧠 Currently Exploring
+
+- Advanced Backend Engineering
+- Distributed Systems
+- Microservices Architecture
+- Kubernetes
+- Cloud Fundamentals
+- High Level & Low Level System Design
+
+
+---
+
+<h3 align="center">
+⚡ Building software that scales ⚡
+</h3>
+```
